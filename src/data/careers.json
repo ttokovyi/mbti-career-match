@@ -1,0 +1,72 @@
+[
+  {
+    "id": "software_engineer",
+    "name": "Software Engineer",
+    "summary": "Builds digital products and solves technical problems through code.",
+    "tags": ["analytical", "technology", "structured", "independent"],
+    "pathwayNotes": "Strong maths/computing foundation, projects, and internships are helpful."
+  },
+  {
+    "id": "psychologist",
+    "name": "Psychologist",
+    "summary": "Studies behavior and supports mental wellbeing in clinical or educational settings.",
+    "tags": ["people", "empathetic", "research", "reflective"],
+    "pathwayNotes": "Usually requires psychology degree and supervised training."
+  },
+  {
+    "id": "marketing_strategist",
+    "name": "Marketing Strategist",
+    "summary": "Designs campaigns and messaging to reach audiences effectively.",
+    "tags": ["creative", "communication", "business", "social"],
+    "pathwayNotes": "Marketing/business coursework plus portfolio and analytics skills."
+  },
+  {
+    "id": "civil_engineer",
+    "name": "Civil Engineer",
+    "summary": "Designs and maintains infrastructure such as roads, bridges, and water systems.",
+    "tags": ["analytical", "structured", "practical", "teamwork"],
+    "pathwayNotes": "Strong STEM subjects and accredited engineering programs are common paths."
+  },
+  {
+    "id": "ux_designer",
+    "name": "UX Designer",
+    "summary": "Improves digital experiences through user research, design, and testing.",
+    "tags": ["creative", "people", "research", "technology"],
+    "pathwayNotes": "Design portfolio, user research practice, and prototyping tools are key."
+  },
+  {
+    "id": "teacher",
+    "name": "Teacher",
+    "summary": "Guides students in learning and personal development.",
+    "tags": ["people", "communication", "structured", "empathetic"],
+    "pathwayNotes": "Subject specialization plus teacher training and certification."
+  },
+  {
+    "id": "entrepreneur",
+    "name": "Entrepreneur",
+    "summary": "Builds ventures by identifying opportunities and managing uncertainty.",
+    "tags": ["business", "social", "creative", "adaptable"],
+    "pathwayNotes": "Business fundamentals, experimentation, and networking matter."
+  },
+  {
+    "id": "data_analyst",
+    "name": "Data Analyst",
+    "summary": "Extracts insights from data to inform decisions.",
+    "tags": ["analytical", "research", "technology", "structured"],
+    "pathwayNotes": "Statistics, spreadsheets/SQL, and data storytelling are important."
+  },
+  {
+    "id": "nurse",
+    "name": "Nurse",
+    "summary": "Provides patient care and supports healthcare teams.",
+    "tags": ["people", "empathetic", "practical", "structured"],
+    "pathwayNotes": "Science subjects and accredited nursing training are required."
+  },
+  {
+    "id": "journalist",
+    "name": "Journalist",
+    "summary": "Investigates stories, interviews sources, and communicates public-interest information.",
+    "tags": ["communication", "research", "social", "adaptable"],
+    "pathwayNotes": "Writing portfolio, media experience, and strong critical thinking help."
+  }
+]

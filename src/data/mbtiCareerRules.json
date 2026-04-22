@@ -1,0 +1,27 @@
+{
+  "version": "1.0.0-expert-rules",
+  "typeWeights": {
+    "INTJ": { "analytical": 3, "structured": 2, "research": 2, "technology": 2 },
+    "INTP": { "analytical": 3, "research": 3, "technology": 2, "independent": 2 },
+    "ENTJ": { "business": 3, "analytical": 2, "structured": 2, "social": 2 },
+    "ENTP": { "adaptable": 3, "creative": 3, "business": 2, "communication": 2 },
+    "INFJ": { "people": 3, "empathetic": 3, "research": 1, "structured": 1 },
+    "INFP": { "empathetic": 3, "creative": 2, "reflective": 2, "people": 2 },
+    "ENFJ": { "people": 3, "communication": 3, "structured": 1, "empathetic": 2 },
+    "ENFP": { "creative": 3, "social": 3, "communication": 2, "adaptable": 2 },
+    "ISTJ": { "structured": 3, "practical": 2, "analytical": 2, "independent": 1 },
+    "ISFJ": { "empathetic": 3, "structured": 2, "people": 2, "practical": 1 },
+    "ESTJ": { "structured": 3, "business": 2, "teamwork": 2, "practical": 1 },
+    "ESFJ": { "people": 3, "communication": 2, "structured": 2, "empathetic": 2 },
+    "ISTP": { "practical": 3, "analytical": 2, "adaptable": 2, "technology": 1 },
+    "ISFP": { "creative": 2, "empathetic": 2, "practical": 2, "people": 1 },
+    "ESTP": { "adaptable": 3, "social": 2, "business": 2, "practical": 2 },
+    "ESFP": { "social": 3, "communication": 2, "creative": 2, "people": 2 }
+  },
+  "axisTagBoosts": {
+    "EI": { "social": 0.6, "communication": 0.5, "independent": -0.4, "reflective": -0.3 },
+    "SN": { "practical": 0.5, "analytical": 0.4, "creative": -0.2, "research": -0.1 },
+    "TF": { "analytical": 0.7, "business": 0.4, "empathetic": -0.6, "people": -0.4 },
+    "JP": { "structured": 0.6, "practical": 0.3, "adaptable": -0.5, "creative": -0.2 }
+  }
+}

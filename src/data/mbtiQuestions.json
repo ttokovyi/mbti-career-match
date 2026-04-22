@@ -1,0 +1,18 @@
+[
+  { "id": "q1", "prompt": "I feel energized after social events.", "axis": "EI", "positivePole": "E", "weight": 1 },
+  { "id": "q2", "prompt": "I prefer to think quietly before I speak.", "axis": "EI", "positivePole": "I", "weight": 1 },
+  { "id": "q3", "prompt": "I enjoy being the one to start conversations.", "axis": "EI", "positivePole": "E", "weight": 1 },
+  { "id": "q4", "prompt": "I usually need solo time to recharge after group work.", "axis": "EI", "positivePole": "I", "weight": 1 },
+  { "id": "q5", "prompt": "I trust practical facts more than possibilities.", "axis": "SN", "positivePole": "S", "weight": 1 },
+  { "id": "q6", "prompt": "I am excited by patterns and future ideas.", "axis": "SN", "positivePole": "N", "weight": 1 },
+  { "id": "q7", "prompt": "I focus on what is real and observable first.", "axis": "SN", "positivePole": "S", "weight": 1 },
+  { "id": "q8", "prompt": "I like imagining many different outcomes.", "axis": "SN", "positivePole": "N", "weight": 1 },
+  { "id": "q9", "prompt": "I make decisions mainly using logic and consistency.", "axis": "TF", "positivePole": "T", "weight": 1 },
+  { "id": "q10", "prompt": "I prioritize empathy and people impact when deciding.", "axis": "TF", "positivePole": "F", "weight": 1 },
+  { "id": "q11", "prompt": "I value objective analysis over personal preference.", "axis": "TF", "positivePole": "T", "weight": 1 },
+  { "id": "q12", "prompt": "I naturally consider how everyone feels.", "axis": "TF", "positivePole": "F", "weight": 1 },
+  { "id": "q13", "prompt": "I like clear plans and deadlines.", "axis": "JP", "positivePole": "J", "weight": 1 },
+  { "id": "q14", "prompt": "I prefer keeping options open until the last moment.", "axis": "JP", "positivePole": "P", "weight": 1 },
+  { "id": "q15", "prompt": "I feel better when tasks are organized early.", "axis": "JP", "positivePole": "J", "weight": 1 },
+  { "id": "q16", "prompt": "I adapt as I go instead of sticking to a fixed plan.", "axis": "JP", "positivePole": "P", "weight": 1 }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "mbti_manual",
+    "title": "MBTI Manual (placeholder for methodology grounding)",
+    "type": "framework",
+    "note": "Use as methodology context, not deterministic evidence for career outcomes."
+  },
+  {
+    "id": "career_theory_holland",
+    "title": "Holland RIASEC Career Theory (placeholder)",
+    "type": "framework",
+    "note": "Potential future blending with MBTI-style preferences."
+  },
+  {
+    "id": "future_evidence_slot_1",
+    "title": "Future peer-reviewed MBTI-career fit paper",
+    "type": "paper",
+    "note": "Reserved source slot for v2 evidence calibration."
+  }
+]
