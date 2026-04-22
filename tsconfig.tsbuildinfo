@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/types.ts","./src/lib/mbti.test.ts","./src/lib/mbti.ts","./src/lib/recommend.test.ts","./src/lib/recommend.ts","./src/pages/homepage.tsx","./src/pages/methodologypage.tsx","./src/pages/quizpage.tsx","./src/pages/resultspage.tsx"],"version":"5.9.3"}
